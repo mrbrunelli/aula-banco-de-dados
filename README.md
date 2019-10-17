@@ -1,5 +1,5 @@
 # aula-banco-de-dados
-Meus arquivos sql separados por aula e com comentários explicando o que cada um faz. Também tem meus sql's pessoais, utilizados em meus projetos.
+Meus arquivos sql separados por aula e com comentários explicando o que cada um faz. Também tem meus sql's pessoais, utilizados em meus projetos. Bons estudos!
 
 /*	DDL - Data Definition Language
 	create database
